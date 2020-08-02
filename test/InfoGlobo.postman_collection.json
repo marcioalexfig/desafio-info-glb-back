@@ -21,7 +21,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n    \"titulo\"              : \"Titulo\", \r\n    \"conteudo\"            : \"Conteudo\",\r\n    \"datapublicacao\"      : \"2020-07-31T18:41:48.044Z\"\r\n}"
+					"raw": "{\r\n    \"titulo\"              : \"Titulo 3\", \r\n    \"conteudo\"            : \"Conteudo\",\r\n    \"datapublicacao\"      : \"2020-07-31T18:41:48.044Z\"\r\n}"
 				},
 				"description": ""
 			},
@@ -30,7 +30,7 @@
 		{
 			"name": "http://localhost:3000/noticias/1",
 			"request": {
-				"url": "http://localhost:3000/api/noticias/5f258f5877af9221b8a3a91b",
+				"url": "http://localhost:3000/api/noticias/5f259f7af0eae32c349a04cd",
 				"method": "PUT",
 				"header": [
 					{
@@ -41,7 +41,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n    \"titulo\"              : \"Titulo Alterado xxxxxxxx\", \r\n    \"conteudo\"            : \"Conteudo\",\r\n    \"datapublicacao\"      : \"2020-07-31T18:41:48.044Z\"\r\n}"
+					"raw": "{\r\n    \"titulo\"              : \"Titulo Noticia 3\", \r\n    \"conteudo\"            : \"Conteudo Noticia 3\",\r\n    \"datapublicacao\"      : \"2020-07-31T18:41:48.044Z\"\r\n}"
 				},
 				"description": ""
 			},
@@ -50,7 +50,7 @@
 		{
 			"name": "http://localhost:3000/noticias/1",
 			"request": {
-				"url": "http://localhost:3000/api/noticias/5f248519421c0b3050e190ae",
+				"url": "http://localhost:3000/api/noticias/5f258f5877af9221b8a3a91b",
 				"method": "DELETE",
 				"header": [],
 				"body": {},
